@@ -6,11 +6,7 @@
     <activity android:label="ReadWriteFileDemo"
               android:name=".ReadWriteFileDemo">
       <intent-filter>
-        <action android:name="android.intent.action.MAIN" />
-        <category android:name="android.intent.category.LAUNCHER" />
-      </intent-filter>
-    </activity>
-  </application>
+        <action a
   <supports-screens android:anyDensity="true"
                     android:largeScreens="true"
                     android:normalScreens="true"
