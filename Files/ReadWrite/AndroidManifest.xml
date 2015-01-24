@@ -3,9 +3,7 @@
           xmlns:android="http://schemas.android.com/apk/res/android">
           
   <application android:icon="@drawable/cw">
-    <activity android:label="ReadWriteFileDemo"
-              android:name=".ReadWriteFileDemo">
-      <intent-filter>
+    <activi
         <action a
   <supports-screens android
 </manifest>
